@@ -17,5 +17,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/marefa9cb8/Chiara-chan/issues"
+  },
+  "dependencies": {
+    "twitter": "~1.2.5",
+    "slack": "~6.1.0"
   }
 }
