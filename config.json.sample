@@ -1,0 +1,11 @@
+{
+  "SlackBotToken":  "your slack bot token",
+  "SlackChannelID":   "your slack channel id (use https://api.slack.com/methods/groups.list/test)",
+  
+  "TwitterConsumerKey":       "your twitter app's key",
+  "TwitterConsumerSecret":    "your twitter app's secret key",
+  "TwitterAccessToken":       "your twitter token",
+  "TwitterAccessTokenSecret": "your twitter secret token",
+  
+  "SaveImgDir": "./imgs/"
+}

@@ -4,7 +4,8 @@
   "description": "chiara-chan is a script that detects tweets you liked in Twitter and posts the tweet's URL to your Slack channel.",
   "main": "chiara-chan.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node chiara-chan.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "dependencies": {
     "twitter": "~1.2.5",
-    "slack": "~6.1.0"
+    "slack": "~6.1.0",
+    "bluebird": "~3.3.4"
   }
 }
