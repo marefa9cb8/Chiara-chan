@@ -1,0 +1,21 @@
+{
+  "name": "chiara-chan",
+  "version": "0.1.0",
+  "description": "chiara-chan is a script that detects tweets you liked in Twitter and posts the tweet's URL to your Slack channel.",
+  "main": "chiara-chan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marefa9cb8/Chiara-chan.git"
+  },
+  "keywords": [
+    "chiara"
+  ],
+  "author": "balar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marefa9cb8/Chiara-chan/issues"
+  }
+}
