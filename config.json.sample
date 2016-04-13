@@ -6,6 +6,7 @@
   "TwitterConsumerSecret":    "your twitter app's secret key",
   "TwitterAccessToken":       "your twitter token",
   "TwitterAccessTokenSecret": "your twitter secret token",
+  "TwitterScreenName": "your twitter screen name", 
   
   "SaveImgDir": "./imgs/"
 }
