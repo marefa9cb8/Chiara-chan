@@ -22,6 +22,9 @@
   "dependencies": {
     "twitter": "~1.2.5",
     "slack": "~6.1.0",
-    "bluebird": "~3.3.4"
+    "bluebird": "~3.3.4",
+    "path": "~0.12.7",
+    "fs": "0.0.2",
+    "https": "~1.0.0"
   }
 }
