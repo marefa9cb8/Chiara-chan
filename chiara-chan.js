@@ -55,7 +55,7 @@ bot.stream('user', function(stream){
     && data.target_object.extended_entities
     ){
       var url = getTweetURL(data.target.screen_name, data.target_object.id_str);
-      //slackPost(url);
+      slackPost(url);
       data.target_object.extended_entities.media.forEach(function(value){
         console.log(value.media_url_https);
         downloadImg(value.media_url_https);
